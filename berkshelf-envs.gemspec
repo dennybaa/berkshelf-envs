@@ -7,7 +7,7 @@ Gem::Specification.new do |spec|
   spec.name          = "berkshelf-envs"
   spec.version       = Berkshelf::Envs::VERSION
   spec.authors       = ["Denis Barishev"]
-  spec.email         = ["denz@twiket.com"]
+  spec.email         = ["dennybaa@gmail.com"]
   spec.summary       = %q{Berkshelf envs extension}
   spec.description   = %q{Handy extension for multi-environment usage}
   spec.homepage      = "https://github.com/dennybaa/berkshelf-envs"
