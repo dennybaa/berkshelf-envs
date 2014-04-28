@@ -21,7 +21,7 @@ Or install it yourself as:
 Activate the extension in your `Berksfile`:
 
     source 'https://api.berkshelf.com'
-    extension 'hg'
+    extension 'envs'
 
 ## Methods
 ---
